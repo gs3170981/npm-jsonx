@@ -1,0 +1,26 @@
+{
+  "name": "rollup-plugin-jsonx",
+  "version": "1.0.1",
+  "description": "jonsx lib",
+  "main": "dist/index.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gs3170981/npm-jsonx.git"
+  },
+  "keywords": [
+    "json",
+    "jsonx"
+  ],
+  "author": "mcky_love",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gs3170981/npm-jsonx/issues"
+  },
+  "homepage": "https://github.com/gs3170981/npm-jsonx#readme",
+  "dependencies": {
+    "rollup-pluginutils": "^2.5.0"
+  }
+}
